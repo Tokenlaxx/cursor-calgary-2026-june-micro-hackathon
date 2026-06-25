@@ -1,5 +1,9 @@
 # OffDash
 
+<p align="center">
+  <img src="images/offdash-hero.png" width="256" alt="OffDash — paste-ready work updates from git evidence" />
+</p>
+
 **Paste-ready work updates from git evidence — without opening another dashboard.**
 
 I lose time every week turning commits and diffs into standup bullets and stakeholder emails. Dashboards and “status portals” add a tab I never revisit. OffDash lives where I already work: **Command Palette → brief streams into an editor tab → copy to Slack or email.**
